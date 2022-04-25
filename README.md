@@ -9,10 +9,8 @@ Here are some services I can provide:
 - 🔭 Front-end development using React, Vue
 - 🌱 Angular Front-end development
 - 👯 PHP, Laravel, Codeigniter, WordPress development
-- 🤔 Blockchain development
 - 💬 MEAN, MERN stack development 
 - 📫 B2B-MarketPlace CRM development 
-- 😄 Trading platform development 
 - ⚡ SQL Database development 
 ...
 
