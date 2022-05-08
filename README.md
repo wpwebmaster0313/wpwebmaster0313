@@ -7,15 +7,15 @@ As a <b>Full Stack CMS</b> web developer, I have rich experience in Front-end an
 
 Here are some services I can provide:
 
-⚡ Front-end development using HTML/CSS, Javascript/jQuery
-⚡ Javascript Frameworks ( React, Next, Vue, Nuxt, Angular ) 
-⚡ PHP Frameworks ( WordPress )
-⚡ SQL Database development 
-⚡ Salesforce development
-⚡ B2B-MarketPlace CRM development 
-⚡ e-Commerce development 
-⚡ SEO & Speed optimization 
-⚡ Mobile App development ( Flutter ) 
+- ⚡ Front-end development using HTML/CSS, Javascript/jQuery
+- ⚡ Javascript Frameworks ( React, Next, Vue, Nuxt, Angular ) 
+- ⚡ PHP Frameworks ( WordPress )
+- ⚡ SQL Database development 
+- ⚡ Salesforce development
+- ⚡ B2B-MarketPlace CRM development 
+- ⚡ e-Commerce development 
+- ⚡ SEO & Speed optimization 
+- ⚡ Mobile App development ( Flutter ) 
 
 ...
 
